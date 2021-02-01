@@ -15,6 +15,4 @@ http://dummy.restapiexample.com/
 
 ## How to Run
 
-* https://www.elastic.co/downloads/elasticsearch[Download] and unpack the Elasticsearch official distribution.
-* Run `bin/elasticsearch` on Linux or macOS. Run `bin\elasticsearch.bat` on Windows.
-* Run `curl -X GET http://localhost:9200/` to verify Elasticsearch is running.
+
