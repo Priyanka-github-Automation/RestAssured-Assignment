@@ -13,6 +13,15 @@ http://dummy.restapiexample.com/
 - Automated the above requirement using RestAssured library, Maven project and TestNG framework.
 - Passed the employee id whose details need to be retrieved and whose record needs to be deleted as parameter through TestNG.xml file.
 
+## Prerequisites to run on your local machine
+- Java version 8 or higher.
+- Maven installed on machine to compile and run from the command line or an IDE like Eclipse to compile and run. 
+
 ## How to Run
+- clone the project from https://github.com/Priyanka-github-Automation/RestAssured-Assignment.git to your local machine.
+- To run from the command line, in the terminal, navigate to the corresponding folder and give the maven command 'mvn test'.
+- To run in an IDE, import the project into your IDE, open the TestNG.xml file in the path src/test/resources and run as TestNG Suite.
+
+
 
 
