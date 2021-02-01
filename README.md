@@ -8,9 +8,12 @@ http://dummy.restapiexample.com/
    - Get - Return specific Employee details(Any).
    - Delete - "message": "successfully! deleted Records".
 
+## Implementation details
 
+- Automated the above requirement using RestAssured library, Maven project and TestNG framework.
+- Passed the employee id whose details need to be retrieved and whose record needs to be deleted as parameter through TestNG.xml file.
 
-=== Installation
+## How to Run
 
 * https://www.elastic.co/downloads/elasticsearch[Download] and unpack the Elasticsearch official distribution.
 * Run `bin/elasticsearch` on Linux or macOS. Run `bin\elasticsearch.bat` on Windows.
